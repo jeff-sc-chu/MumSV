@@ -2,7 +2,7 @@ use strict;
 use Getopt::Std;
 
 sub help_mess{
-	print "\n", "Analyze Mummer outputs", "\n";
+	print "\n", "Analyze Mummer outputs for SVs", "\n";
 	print "\n";
 	print "\t", "-T <Int>", "\t", "Task: ", "\n";
 	#print "\t", "", "\t", "1: Sort SV by size", "\n";
