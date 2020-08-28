@@ -3,7 +3,8 @@
 Collection of perl scripts to identify SVs from MUMer. 
 
 A typical workflow is as follows:
-#Obtaining gap locations
+
+## Obtaining gap locations
 perl fasta_gap_info -i <genome fasta file> > gapInfo.output.file
 
 # Annotate Gap to MUMer diff and coord output files
