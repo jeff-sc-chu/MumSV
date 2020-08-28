@@ -29,7 +29,7 @@ sub help_mess{
 	print "\t", "", "\t", "CountSelectedGenes: ", "\n";
 	print "\t", "", "\t", "Consolidate: ", "\n";
 	print "\t", "", "\t", "TallyConsolidate: ", "\n";
-	print "\t", "-i <File>", "\t", "Mummer input file", "\n";
+	print "\t", "-i <File>", "\t", "Mummer input file (Diff file)", "\n";
 	print "\t", "-l <File>", "\t", "File list", "\n";
 	print "\t", "-e [String]", "\t", "Feature to tally", "\n";
 	print "\t", "-d [String]", "\t", "Details to record in tally", "\n";
